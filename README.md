@@ -1,5 +1,5 @@
 # Qixuan DiffSinger Releases
-GitHub release channel of Qixuan (绮萱), a widely loved DiffSinger voicebank.
+GitHub release channel of Qixuan (绮萱), a widely loved DiffSinger voicebank with a cute young girl voice.
 
 ## Acknowledgements and Terms of Use
 
